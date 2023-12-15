@@ -1,25 +1,25 @@
-Title: New London Cinema Seat Management
+Title: New London Theatre Seat Management
 
 Description:
-This Java project manages and controls seat reservations for the 'New London Cinema.' Using standard arrays, it records sold and available seats. The system displays a menu offering options to buy tickets, cancel reservations, display seating, and more.
+This Java project is a theater seat management system for the 'New London Theatre.' It handles seat reservations, availability, and ticket purchases using standard arrays. The system provides a user-friendly menu to buy tickets, cancel reservations, display seating arrangements, and more.
 
 Features:
 
 Main Program (Task 1-6):
 
-Display welcome message.
-Menu with options: buy ticket, cancel ticket, display seating area, show available seats.
-Methods to buy, cancel tickets, print seating, and show available seats.
+Displays a welcome message.
+Offers a menu with options to buy a ticket, cancel a ticket, display seating arrangements, and show available seats.
+Implements methods for buying, canceling tickets, printing seating layouts, and displaying available seats.
 Classes and Objects (Task 7-12):
 
-Person class with attributes (name, surname, email).
-Ticket class with seat details, price, and linked to a Person object.
-Implementation of buying/canceling tickets, showing person info, calculating total prices, sorting tickets by price.
+Includes a Person class with attributes (name, surname, email).
+Contains a Ticket class with seat details, price, and linked to a Person object.
+Implements ticket purchase/cancellation, displaying person info, total price calculation, and ticket sorting by price.
 Testing, Style, and Self-Evaluation (Task 13-15):
 
-Self-evaluation form completed with test cases and outcomes.
-Emphasis on good coding practices: commenting, indentation, meaningful variable names, method reuse, constants usage, etc.
+Completed self-evaluation form includes test cases and outcomes.
+Emphasis on coding best practices: comments, indentation, meaningful variable names, method reusability, constants usage, etc.
 GitHub Repository:
-The repository will contain Java source files (Cinema.java, Person.java, Ticket.java), test cases, screenshots of outputs, and the completed self-evaluation form. Commits will detail implemented features, bug fixes, and coding style enhancements. README.md will provide an overview of the project, instructions for running the program, and the self-evaluation form's purpose.
+The repository houses Java source files (Theatre.java, Person.java, Ticket.java), test cases, output screenshots, and the completed self-evaluation form. Commits document implemented features, bug fixes, and coding style improvements. The README.md file provides project overview, instructions for executing the program, and the purpose of the self-evaluation form.
 
-This GitHub repository showcases proficiency in Java programming, encapsulation, array manipulation, and algorithm implementation. It demonstrates best coding practices, project organization, and thorough testing.
+This GitHub repository showcases expertise in Java programming, array manipulation, encapsulation, and algorithm implementation, specifically tailored for theater management. It demonstrates adherence to coding best practices, robust project structuring, and thorough testing
